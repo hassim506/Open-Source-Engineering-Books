@@ -42,10 +42,10 @@ Here is an example. Feel free to copy, paste and edit it with your links to your
 - ## G
   -
 - H
-  -[Hassim506](https://github.com/hassim506)( 
-  [LINKDIN](https://www.linkedin.com/in/hassimdiallo123)
-  ,[INSTAGRAM](https://www.instagram.com/hassim_dev))
-  -
+  - [Hassim506](http://github.com/hassim506/) (
+    [LINKEDIN](https://www.linkedin.com/in/hassim123/)
+    , [INSTAGRAM](https://instagram.com/hassim_dev)
+    )
 - ## I
   -
 - ## J
